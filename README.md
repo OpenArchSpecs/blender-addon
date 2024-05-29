@@ -10,7 +10,7 @@ This Blender add-on allows you to import .floor files, enabling you to easily cr
 
 ## Installation
 
-1. Download the add-on from the [releases page](link-to-releases).
+1. Download the add-on from the [releases page](https://github.com/OpenArchSpecs/blender-addon/releases).
 2. Open Blender and go to `Edit > Preferences > Add-ons`.
 3. Click `Install...` and select the downloaded ZIP file.
 4. Enable the add-on from the list.
