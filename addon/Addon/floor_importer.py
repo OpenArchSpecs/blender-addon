@@ -91,6 +91,7 @@ class ImportFloorFile(bpy.types.Operator):
         empty_obj = bpy.context.object
         empty_obj.name = "FloorEmpty"
         floor_collection.objects.link(empty_obj)
+        bpy.context.view_layer.objects.active = empty_obj
 
         context.scene.walls.clear()
 
