@@ -1,0 +1,4 @@
+.DS_Store
+addon/Addon/__pycache__/__init__.cpython-311.pyc
+addon/Addon/__pycache__/floor_importer.cpython-311.pyc
+addon/Addon/__pycache__/ui.cpython-311.pyc
